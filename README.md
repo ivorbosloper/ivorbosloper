@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - Currently exploring some new business ideas
-- Plan to do some more Open Source development
+- Ramping up my open source contributions, currently contributing at [Field Boundaries for Agriculture](https://github.com/fiboa/) / [fiboa.org](https://fiboa.org)
 - Founder at [Crop-R](https://github.com/crop-r), Dacom Farm Intelligence, now aqcuired by [CropX](https://github.com/cropx)
 - Proud of [Boer&Bunder](https://boerenbunder.nl/), [Dacom Platform](https://www.cropx.nl/en/products/crop-recording/), [Cloudfarm](https://www.cropx.nl/en/products/cloudfarm/) and more
 - I like to work with Open data, GIS, Ag-tech, Earth Observation
